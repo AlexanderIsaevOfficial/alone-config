@@ -1,0 +1,37 @@
+{
+    "chapters": [
+        {
+            "chapterName": "Base Principles",
+            "principles": [
+                {
+                    "principleText": "Outlook Ritual"
+                },
+                {
+                    "principleText": "Becoming Ritual"
+                }
+            ]
+        },
+        {
+            "chapterName": "Discipline",
+            "principles": [
+                {
+                    "principleText": "1"
+                },
+                {
+                    "principleText": "2"
+                }
+            ]
+        },
+        {
+            "chapterName": "Sleep",
+            "principles": [
+                {
+                    "principleText": "I go to bed before 22:00, do not eat before going to bed, do not look at the screens, dim the lights, sleep in complete darkness, cool, fresh and quiet room"
+                },
+                {
+                    "principleText": "I wake up early in the morning. After waking up, I meet the sunrise"
+                }
+            ]
+        }
+    ]
+}
