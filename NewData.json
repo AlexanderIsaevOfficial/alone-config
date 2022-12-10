@@ -32,6 +32,28 @@
                     "principleText": "I wake up early in the morning. After waking up, I meet the sunrise"
                 }
             ]
+        },
+        {
+            "chapterName": "Nutrition",
+            "principles": [
+                {
+                    "principleText": "1"
+                },
+                {
+                    "principleText": "2"
+                }
+            ]
+        },
+        {
+            "chapterName": "Sport",
+            "principles": [
+                {
+                    "principleText": "1"
+                },
+                {
+                    "principleText": "2"
+                }
+            ]
         }
     ]
 }
