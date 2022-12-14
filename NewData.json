@@ -1,29 +1,59 @@
 {
     "chapters": [
         {
-            "chapterName": "Base Principles",
+            "chapterName": "Базовые принципы",
             "principles": [
                 {
-                    "principleText": "Outlook Ritual"
+                    "principleText": "Ритуал миропонимания"
                 },
                 {
-                    "principleText": "Becoming Ritual"
+                    "principleText": "Ритуал становления"
                 }
             ]
         },
         {
-            "chapterName": "Discipline",
+            "chapterName": "Дисциплина",
             "principles": [
                 {
-                    "principleText": "I take a cold shower every day"
+                    "principleText": "Каждый день я принимаю холодный душ"
                 },
                 {
-                    "principleText": "There is no place in my life for games, porn, drugs, social networks, sweets"
-                }
+                    "principleText": "Я стремлюсь к чистоте и ясности во всём. Всё должно быть понятно в жизни. Я исключаю всё мутное, непонятное, ненужное. Нет необходимости во многих вещах. Гигиена во всём."
+                },
+                {
+                    "principleText": "Я не делюсь своими планами"
+                },
+                {
+                    "principleText": "Отвечая на вопрос зачем - я стараюсь обрести смысл, а не цель"
+                },
+                {
+                    "principleText": "Я просто не позволяю себе хотеть то что вредно. Поэтому мне не нужно с этим бороться"
+                },
+                {
+                    "principleText": "Я не залипаю в социальных сетях"
+                },
+                {
+                    "principleText": "Среда создает желание. Я в ответе за условия в которых нахожусь"
+                },
+                {
+                    "principleText": "Четкие цели в делах. Я четко формулирую цели перед началом любого дела"
+                },
+                {
+                    "principleText": "Я представляю во всей красе результат к которому иду. Я заряжаюсь будущим результатом"
+                },
+                {
+                    "principleText": "Я награждаю себя за результаты"
+                },                
+                {
+                    "principleText": "Ментальность - если я сейчас постараюсь, то могу получить супер крутой результат"
+                },
+                {
+                    "principleText": "Я ставлю вопросы ребром. Готов ли я понести те последствия что будут в случае если дам слабину в соблазнах?"
+                },
             ]
         },
         {
-            "chapterName": "Sleep",
+            "chapterName": "Сон",
             "principles": [
                 {
                     "principleText": "I go to bed before 22:00, do not eat before going to bed, do not look at the screens, dim the lights, sleep in complete darkness, cool, fresh and quiet room"
@@ -34,7 +64,7 @@
             ]
         },
         {
-            "chapterName": "Nutrition",
+            "chapterName": "Питание",
             "principles": [
                 {
                     "principleText": "1"
@@ -45,7 +75,7 @@
             ]
         },
         {
-            "chapterName": "Sport",
+            "chapterName": "Спорт",
             "principles": [
                 {
                     "principleText": "1"
